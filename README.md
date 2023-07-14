@@ -1,5 +1,5 @@
 # DnD-Charakterblatt-Tablle
-Das Dungeons &amp; Dragons  Charakterblatt als teilweise automatisch kalkulierende Tabellenversion!
+Das Dungeons &amp; Dragons  Charakterblatt als komplett inoffizielle, aber teilweise automatisch kalkulierende Tabellenversion!
 
 ## Versionen
 Aktuell ist nur eine Numbers version aktiv in entwicklung. Weiter versionen können gerne beigesteuert werden!
